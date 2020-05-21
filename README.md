@@ -8,7 +8,7 @@ Assignment Help - Steps:
 1- Download/clone running application from https://github.com/naveed-rana/docker-assignment (You can use any running application)
 <br/>
 2- Create Dockerfile for the application.<br/>
-3- Deploay it. (you can use free heroku account for deployment)<br/>
+3- Deploay it. ("you can use free heroku account for deployment")<br/>
 
 Above application details for dockerfile<br/>
 1- Node.js application for serving portfolio files<br/>
